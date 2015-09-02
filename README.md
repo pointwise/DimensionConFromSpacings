@@ -1,7 +1,7 @@
 # DimensionConFromSpacings
 A Pointwise Glyph script that dimensions selected connectors from supplied beginning, ending, and maximum spacing values. These values can also be retrieved from an existing dimensioned connector. 
 
-![ScriptImage](https://raw.github.com/pointwise/DimensionConFromSpacings/master/ScriptImage.png)
+![ScriptImage](https://raw.github.com/pointwise/DimensionConFromSpacings/master/ScriptImage.PNG)
 
 ## Disclaimer
 Scripts are freely provided. They are not supported products of
